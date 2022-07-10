@@ -1,0 +1,14 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  margin: 0;
+  background:#29b6f6;
+}
+

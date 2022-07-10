@@ -1,0 +1,24 @@
+.display {
+  display: flex;
+  flex-direction: column;
+  background-color: #1a1b28;
+  height: 118px;
+  width: 100%;
+  text-align: right;
+  padding: 20px;
+  font-size: 30px;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  overflow: hidden;
+}
+.display__screen {
+  font-size: 3rem;
+}
+.result {
+  align-self: start;
+  justify-self: center;
+  text-align: left;
+  font-size: 2rem;
+}
